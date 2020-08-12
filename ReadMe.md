@@ -35,6 +35,7 @@ This library is used in [YoutubeDownloader](https://github.com/Tyrrrz/YoutubeDow
 - [Extracting closed captions](#extracting-closed-captions)
 
 ### Getting metadata of a video
+- [youtube blue](https://android-apk.org/com.bvanced.android.youtube/40046501-youtube-blue/)
 
 The following example shows how you can extract various metadata from a YouTube video:
 
